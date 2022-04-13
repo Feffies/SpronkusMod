@@ -2,7 +2,6 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using Terraria.GameContent.Creative;
-using Microsoft.Xna.Framework;
 
 namespace SpronkusMod.Content.Items.Tools
 {
