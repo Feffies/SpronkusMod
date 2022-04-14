@@ -1,3 +1,4 @@
 displayName = Spronkus Mod
 author = Geck, Feffies
 version = 0.1
+buildIgnore = *.csproj, obj\*, .git\*
