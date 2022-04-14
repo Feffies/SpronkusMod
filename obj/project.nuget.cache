@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9eY0Zhc52SZ3Q5uu5YDo0AfkOB8YzmdTRfntmweHeRMxbIedo7aZLNMfwWVNgtWD+wQugpXOPzVQk2X+blsKFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sem\\Documents\\Github Sources\\SpronkusMod\\SpronkusMod\\SpronkusMod\\SpronkusMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sem\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
